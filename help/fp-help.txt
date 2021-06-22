@@ -1,0 +1,129 @@
+How To use Footy Predictor V1.24
+By Steve Shambles. June 2021
+--------------------------------
+
+Predictions
+-----------
+Here is a step by step guide on how to obtain a 
+prediction for any English Premier League 
+football match for the 2021-2022 season
+(or any add-on league that you may have loaded in). 
+
+from the main screen first select the home team
+from the drop down list on the left, 
+and then select the away team from the 
+drop down list on the right.
+
+Now click on the "Prediction" button (below, middle).
+
+A pop up box will inform you of said prediction. 
+
+After a prediction is made it is copied to the
+clipboard, in case you want to paste it somewhere.
+ 
+The prediction is also stored in a prediction history file,
+which you can view, edit or erase from the history drop-down menu,
+which can be found in the 2nd menu at the top of the main window.
+
+Click the "X" on the prediction pop up to close it,
+however you can leave prediction windows open should you want
+to.
+
+IMPORTANT
+---------
+Please be aware that the prediction math is very simpliostic (but logical) and cannot be relied upon for gambling purposes.
+
+Footy Predictor is just a fun programming project and should not be taken too seriously.
+
+Match Odds
+----------
+Clicking on the "Match Odds" button from the main screen 
+will take you to an excellent web page that gives odds
+forecasts for every up and coming English League match.
+
+You can use this information to make a more informed judgement of
+the match outcome.
+
+These odds are not linked to the FP prediction algo.
+
+This web page can also serve as a upcoming fixtures list.
+
+This is really useful as the page updates as the season progresses
+so will always show the next up and coming matches and their odds.
+
+Head 2 Head Match Histories
+---------------------------
+Clicking on the "Head 2 Head" button will give
+you every EPL head to head match result since the EPL started
+in 1992 of your selected match, with a useful little table
+to sum up the results at the end.
+
+Yes, that's 29 seasons of results folks!
+
+Thanks go to http://news.football-data.co.uk
+for supplying 28 seasons, I had to make my own first season
+as they do not supply that one for some reason.
+
+See also the "help" button in the "Head To Head" window
+for more information.
+
+To exit a H2H window you must click on the "Exit" button
+as only one H2H window can be open at a time.
+
+
+Info Menu
+----------
+If you click on the "Info" Menu (top left of the main program) 
+you can view information about this program and visit my python
+programming Blog or contact me.
+
+
+Make a small PayPal donation
+----------------------------
+At the moment FP is 100% free, with no restrictions.
+However, if you find FP useful all donations will be gratefully
+accepted, you decide what you think it's worth,
+I would suggest £5-£10 is fair, if you can't decide..
+
+
+Links menu
+-----------
+Useful links to info and statistics relating to EPL teams, players,
+managers, form etc. I am being very selective, I could have filled
+this menu with any old crap, but I want quality useful sites only
+that will contribute to our quest of predicting a result.
+
+If you do make bets, please only bet what you can afford to lose.
+Personally I rarely bet on football matches,
+I think the odds offered are usually very bad value.
+
+
+Leagues Menu
+-------------
+As from V1.0 you can load in a league, you can also easily create
+your own leagues.
+
+Please see the help file in the "Leagues" menu for what this is all about.
+
+
+Have fun.
+
+Steve Shambles
+June 2021
+
+Update log:
+V1.24 PEP8 check, not great but fixed what I could.
+V1.20 Now supports leagues of up to 28 teams.
+V1.19 Updated logo img and draw list rating.
+V1.18 Updated champship and L1, L2 teams and ratings
+V1.17 Updated prem L teams, promotion relegation, updated ratings.
+V1.16 Updated Tkinter code for best practice using tk.widget.
+V1.15 Rmoved update news menu item and related function.
+V1.14 Removed visit new blog menu item and function.
+V1.13 Updated full PL results for 2020-2021 season
+V1.12 Code tidy, small fixes and improvements
+V1.11 Added copy text button for h2h
+V1.10 Romoved rubbish prediction algo, start again, keep it simple.
+V1.09 removed tons remmed out code.
+V1.08 removed h2h history files
+v1.07-removed fred

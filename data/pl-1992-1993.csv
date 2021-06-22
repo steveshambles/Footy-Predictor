@@ -1,0 +1,463 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG
+11-May-93,Arsenal,Tottenham,1,3
+11-May-93,QPR,Sheffield Wednesday,3,1
+09-May-93,QPR,Aston Villa,2,1
+09-May-93,Wimbledon,Man United,1,2
+08-May-93,Arsenal,Crystal Palace,3,0
+08-May-93,Blackburn Rovers,Sheffield Wednesday,1,0
+08-May-93,Coventry City,Leeds,3,3
+08-May-93,Ipswich Town,Nottingham Forest,2,1
+08-May-93,Liverpool,Tottenham,6,2
+08-May-93,Man City,Everton,2,5
+08-May-93,Middlesbrough,Norwich City,3,3
+08-May-93,Oldham Athletic,Southampton,4,3
+08-May-93,Sheffield United,Chelsea,4,2
+06-May-93,Sheffield Wednesday,Arsenal,1,0
+05-May-93,Man City,Crystal Palace,0,0
+05-May-93,Oldham Athletic,Liverpool,3,2
+05-May-93,Tottenham,Blackburn Rovers,1,2
+04-May-93,Arsenal,QPR,0,0
+04-May-93,Everton,Sheffield United,0,2
+04-May-93,Sheffield Wednesday,Leeds,1,1
+03-May-93,Man United,Blackburn Rovers,3,1
+02-May-93,Aston Villa,Oldham Athletic,0,1
+01-May-93,Chelsea,Coventry City,2,1
+01-May-93,Crystal Palace,Ipswich Town,3,1
+01-May-93,Everton,Arsenal,0,0
+01-May-93,Leeds,QPR,1,1
+01-May-93,Norwich City,Liverpool,1,0
+01-May-93,Nottingham Forest,Sheffield United,0,2
+01-May-93,Sheffield Wednesday,Middlesbrough,2,3
+01-May-93,Southampton,Man City,0,1
+01-May-93,Tottenham,Wimbledon,1,1
+21-Apr-93,Arsenal,Nottingham Forest,1,1
+21-Apr-93,Blackburn Rovers,Aston Villa,3,0
+21-Apr-93,Crystal Palace,Man United,0,2
+21-Apr-93,Liverpool,Leeds,2,0
+21-Apr-93,Man City,Wimbledon,1,1
+21-Apr-93,Sheffield Wednesday,Sheffield United,1,1
+20-Apr-93,Middlesbrough,Tottenham,3,0
+19-Apr-93,Ipswich Town,Norwich City,3,1
+18-Apr-93,Aston Villa,Man City,3,1
+17-Apr-93,Leeds,Crystal Palace,0,0
+17-Apr-93,Liverpool,Coventry City,4,0
+17-Apr-93,Man United,Chelsea,3,0
+17-Apr-93,Sheffield United,Blackburn Rovers,1,3
+17-Apr-93,Southampton,Everton,0,0
+17-Apr-93,Tottenham,Oldham Athletic,4,1
+17-Apr-93,Wimbledon,Nottingham Forest,1,0
+14-Apr-93,Norwich City,Leeds,4,2
+13-Apr-93,Oldham Athletic,Sheffield United,1,1
+12-Apr-93,Arsenal,Aston Villa,0,1
+12-Apr-93,Blackburn Rovers,Ipswich Town,2,1
+12-Apr-93,Chelsea,Wimbledon,4,2
+12-Apr-93,Coventry City,Man United,0,1
+12-Apr-93,Crystal Palace,Middlesbrough,4,1
+12-Apr-93,Everton,QPR,3,5
+12-Apr-93,Man City,Liverpool,1,1
+12-Apr-93,Nottingham Forest,Tottenham,2,1
+12-Apr-93,Sheffield Wednesday,Southampton,5,2
+10-Apr-93,Aston Villa,Coventry City,0,0
+10-Apr-93,Ipswich Town,Arsenal,1,2
+10-Apr-93,Leeds,Blackburn Rovers,5,2
+10-Apr-93,Liverpool,Oldham Athletic,1,0
+10-Apr-93,Man United,Sheffield Wednesday,2,1
+10-Apr-93,Middlesbrough,Everton,1,2
+10-Apr-93,QPR,Nottingham Forest,4,3
+10-Apr-93,Southampton,Chelsea,1,0
+09-Apr-93,Sheffield United,Man City,1,1
+09-Apr-93,Tottenham,Norwich City,5,1
+09-Apr-93,Wimbledon,Crystal Palace,4,0
+07-Apr-93,Nottingham Forest,Blackburn Rovers,1,3
+07-Apr-93,Oldham Athletic,Sheffield Wednesday,1,1
+06-Apr-93,Ipswich Town,Chelsea,1,1
+06-Apr-93,Middlesbrough,Arsenal,1,0
+06-Apr-93,Sheffield United,Leeds,2,1
+05-Apr-93,Norwich City,Man United,1,3
+04-Apr-93,Nottingham Forest,Aston Villa,0,1
+03-Apr-93,Blackburn Rovers,Liverpool,4,1
+03-Apr-93,Chelsea,Middlesbrough,4,0
+03-Apr-93,Coventry City,Southampton,2,0
+03-Apr-93,Crystal Palace,QPR,1,1
+03-Apr-93,Man City,Ipswich Town,3,1
+03-Apr-93,Oldham Athletic,Wimbledon,6,2
+24-Mar-93,Coventry City,Sheffield United,1,3
+24-Mar-93,Everton,Ipswich Town,3,0
+24-Mar-93,Leeds,Chelsea,1,1
+24-Mar-93,Man United,Arsenal,0,0
+24-Mar-93,Norwich City,Aston Villa,1,0
+24-Mar-93,QPR,Blackburn Rovers,0,3
+24-Mar-93,Sheffield Wednesday,Wimbledon,1,1
+24-Mar-93,Southampton,Nottingham Forest,1,2
+24-Mar-93,Tottenham,Man City,3,1
+23-Mar-93,Crystal Palace,Liverpool,1,1
+22-Mar-93,Middlesbrough,Oldham Athletic,2,3
+21-Mar-93,Nottingham Forest,Leeds,1,1
+20-Mar-93,Arsenal,Southampton,4,3
+20-Mar-93,Aston Villa,Sheffield Wednesday,2,0
+20-Mar-93,Blackburn Rovers,Middlesbrough,1,1
+20-Mar-93,Chelsea,Tottenham,1,1
+20-Mar-93,Ipswich Town,Coventry City,0,0
+20-Mar-93,Liverpool,Everton,1,0
+20-Mar-93,Man City,Man United,1,1
+20-Mar-93,Oldham Athletic,QPR,2,2
+20-Mar-93,Sheffield United,Crystal Palace,0,1
+20-Mar-93,Wimbledon,Norwich City,3,0
+17-Mar-93,Nottingham Forest,Norwich City,0,3
+15-Mar-93,Crystal Palace,Chelsea,1,1
+14-Mar-93,Man United,Aston Villa,1,1
+13-Mar-93,Coventry City,Arsenal,0,2
+13-Mar-93,Everton,Nottingham Forest,3,0
+13-Mar-93,Leeds,Man City,1,0
+13-Mar-93,Middlesbrough,Liverpool,1,2
+13-Mar-93,Norwich City,Oldham Athletic,1,0
+13-Mar-93,QPR,Wimbledon,1,2
+13-Mar-93,Southampton,Ipswich Town,4,3
+10-Mar-93,Aston Villa,Tottenham,0,0
+10-Mar-93,Chelsea,Everton,2,1
+10-Mar-93,Ipswich Town,Sheffield Wednesday,0,1
+10-Mar-93,Liverpool,QPR,1,0
+10-Mar-93,Man City,Coventry City,1,0
+10-Mar-93,Sheffield United,Norwich City,0,1
+09-Mar-93,Blackburn Rovers,Southampton,0,0
+09-Mar-93,Oldham Athletic,Man United,1,0
+09-Mar-93,Wimbledon,Middlesbrough,2,0
+07-Mar-93,Coventry City,Everton,0,1
+06-Mar-93,Liverpool,Man United,1,2
+06-Mar-93,QPR,Norwich City,3,1
+06-Mar-93,Wimbledon,Southampton,1,2
+03-Mar-93,Coventry City,Sheffield Wednesday,1,0
+03-Mar-93,Everton,Blackburn Rovers,2,1
+03-Mar-93,Norwich City,Arsenal,1,1
+03-Mar-93,Nottingham Forest,Crystal Palace,1,1
+02-Mar-93,Ipswich Town,Middlesbrough,0,1
+02-Mar-93,Sheffield United,Tottenham,6,0
+01-Mar-93,Chelsea,Arsenal,1,0
+28-Feb-93,Norwich City,Blackburn Rovers,0,0
+27-Feb-93,Aston Villa,Wimbledon,1,0
+27-Feb-93,Crystal Palace,Coventry City,0,0
+27-Feb-93,Everton,Oldham Athletic,2,2
+27-Feb-93,Leeds,Ipswich Town,1,0
+27-Feb-93,Man United,Middlesbrough,3,0
+27-Feb-93,Nottingham Forest,Man City,0,2
+27-Feb-93,Sheffield Wednesday,Liverpool,1,1
+27-Feb-93,Southampton,Sheffield United,3,2
+27-Feb-93,Tottenham,QPR,3,2
+24-Feb-93,Arsenal,Leeds,0,0
+24-Feb-93,Nottingham Forest,QPR,1,0
+23-Feb-93,Man City,Sheffield Wednesday,1,2
+22-Feb-93,Sheffield United,Oldham Athletic,2,0
+21-Feb-93,Blackburn Rovers,Chelsea,2,0
+20-Feb-93,Aston Villa,Everton,2,1
+20-Feb-93,Liverpool,Ipswich Town,0,0
+20-Feb-93,Man United,Southampton,2,1
+20-Feb-93,Middlesbrough,Nottingham Forest,1,2
+20-Feb-93,Norwich City,Man City,2,1
+20-Feb-93,Oldham Athletic,Arsenal,0,1
+20-Feb-93,QPR,Coventry City,2,0
+20-Feb-93,Sheffield Wednesday,Crystal Palace,2,1
+20-Feb-93,Tottenham,Leeds,4,0
+20-Feb-93,Wimbledon,Sheffield United,2,0
+13-Feb-93,Chelsea,Aston Villa,0,1
+13-Feb-93,Leeds,Oldham Athletic,2,0
+13-Feb-93,Southampton,Liverpool,2,1
+10-Feb-93,Arsenal,Wimbledon,0,1
+10-Feb-93,Chelsea,Liverpool,0,0
+10-Feb-93,Crystal Palace,Aston Villa,1,0
+10-Feb-93,Everton,Tottenham,1,2
+10-Feb-93,Southampton,Norwich City,3,0
+09-Feb-93,Ipswich Town,QPR,1,1
+09-Feb-93,Sheffield United,Middlesbrough,2,0
+08-Feb-93,Leeds,Man United,0,0
+07-Feb-93,Tottenham,Southampton,4,2
+06-Feb-93,Aston Villa,Ipswich Town,2,0
+06-Feb-93,Liverpool,Nottingham Forest,0,0
+06-Feb-93,Man United,Sheffield United,2,1
+06-Feb-93,Middlesbrough,Coventry City,0,2
+06-Feb-93,Oldham Athletic,Chelsea,3,1
+06-Feb-93,QPR,Man City,1,1
+06-Feb-93,Sheffield Wednesday,Everton,3,1
+06-Feb-93,Wimbledon,Leeds,1,0
+02-Feb-93,Blackburn Rovers,Crystal Palace,1,2
+30-Jan-93,Arsenal,Liverpool,0,1
+30-Jan-93,Chelsea,Sheffield Wednesday,0,2
+30-Jan-93,Coventry City,Wimbledon,0,2
+30-Jan-93,Crystal Palace,Tottenham,1,3
+30-Jan-93,Everton,Norwich City,0,1
+30-Jan-93,Ipswich Town,Man United,2,1
+30-Jan-93,Leeds,Middlesbrough,3,0
+30-Jan-93,Man City,Blackburn Rovers,3,2
+30-Jan-93,Nottingham Forest,Oldham Athletic,2,0
+30-Jan-93,Sheffield United,QPR,1,2
+30-Jan-93,Southampton,Aston Villa,2,0
+27-Jan-93,Aston Villa,Sheffield United,3,1
+27-Jan-93,Man United,Nottingham Forest,2,0
+27-Jan-93,Norwich City,Crystal Palace,4,2
+27-Jan-93,QPR,Chelsea,1,1
+27-Jan-93,Tottenham,Ipswich Town,0,2
+26-Jan-93,Blackburn Rovers,Coventry City,2,5
+26-Jan-93,Middlesbrough,Southampton,2,1
+26-Jan-93,Oldham Athletic,Man City,0,1
+26-Jan-93,Wimbledon,Everton,1,3
+23-Jan-93,Coventry City,Oldham Athletic,3,0
+18-Jan-93,QPR,Man United,1,3
+17-Jan-93,Aston Villa,Middlesbrough,5,1
+16-Jan-93,Everton,Leeds,2,0
+16-Jan-93,Man City,Arsenal,0,1
+16-Jan-93,Norwich City,Coventry City,1,1
+16-Jan-93,Nottingham Forest,Chelsea,3,0
+16-Jan-93,Oldham Athletic,Blackburn Rovers,0,1
+16-Jan-93,Sheffield United,Ipswich Town,3,0
+16-Jan-93,Southampton,Crystal Palace,1,0
+16-Jan-93,Tottenham,Sheffield Wednesday,0,2
+16-Jan-93,Wimbledon,Liverpool,2,0
+10-Jan-93,Sheffield Wednesday,Norwich City,1,0
+09-Jan-93,Arsenal,Sheffield United,1,1
+09-Jan-93,Blackburn Rovers,Wimbledon,0,0
+09-Jan-93,Chelsea,Man City,2,4
+09-Jan-93,Coventry City,Nottingham Forest,0,1
+09-Jan-93,Crystal Palace,Everton,0,2
+09-Jan-93,Ipswich Town,Oldham Athletic,1,2
+09-Jan-93,Leeds,Southampton,2,1
+09-Jan-93,Liverpool,Aston Villa,1,2
+09-Jan-93,Man United,Tottenham,4,1
+09-Jan-93,Middlesbrough,QPR,0,1
+28-Dec-92,Aston Villa,Arsenal,1,0
+28-Dec-92,Ipswich Town,Blackburn Rovers,2,1
+28-Dec-92,Leeds,Norwich City,0,0
+28-Dec-92,Liverpool,Man City,1,1
+28-Dec-92,Man United,Coventry City,5,0
+28-Dec-92,Middlesbrough,Crystal Palace,0,1
+28-Dec-92,QPR,Everton,4,2
+28-Dec-92,Southampton,Sheffield Wednesday,1,2
+28-Dec-92,Tottenham,Nottingham Forest,2,1
+28-Dec-92,Wimbledon,Chelsea,0,0
+26-Dec-92,Arsenal,Ipswich Town,0,0
+26-Dec-92,Blackburn Rovers,Leeds,3,1
+26-Dec-92,Chelsea,Southampton,1,1
+26-Dec-92,Coventry City,Aston Villa,3,0
+26-Dec-92,Crystal Palace,Wimbledon,2,0
+26-Dec-92,Everton,Middlesbrough,2,2
+26-Dec-92,Man City,Sheffield United,2,0
+26-Dec-92,Norwich City,Tottenham,0,0
+26-Dec-92,Sheffield Wednesday,Man United,3,3
+21-Dec-92,Norwich City,Ipswich Town,0,2
+20-Dec-92,Crystal Palace,Leeds,1,0
+20-Dec-92,Nottingham Forest,Wimbledon,1,1
+19-Dec-92,Arsenal,Middlesbrough,1,1
+19-Dec-92,Blackburn Rovers,Sheffield United,1,0
+19-Dec-92,Chelsea,Man United,1,1
+19-Dec-92,Coventry City,Liverpool,5,1
+19-Dec-92,Everton,Southampton,2,1
+19-Dec-92,Man City,Aston Villa,1,1
+19-Dec-92,Oldham Athletic,Tottenham,2,1
+19-Dec-92,Sheffield Wednesday,QPR,1,0
+13-Dec-92,Liverpool,Blackburn Rovers,2,1
+12-Dec-92,Aston Villa,Nottingham Forest,2,1
+12-Dec-92,Ipswich Town,Man City,3,1
+12-Dec-92,Leeds,Sheffield Wednesday,3,1
+12-Dec-92,Man United,Norwich City,1,0
+12-Dec-92,QPR,Crystal Palace,1,3
+12-Dec-92,Sheffield United,Everton,1,0
+12-Dec-92,Southampton,Coventry City,2,2
+12-Dec-92,Tottenham,Arsenal,1,0
+12-Dec-92,Wimbledon,Oldham Athletic,5,2
+11-Dec-92,Middlesbrough,Chelsea,0,0
+07-Dec-92,Everton,Liverpool,2,1
+06-Dec-92,Man United,Man City,2,1
+05-Dec-92,Coventry City,Ipswich Town,2,2
+05-Dec-92,Crystal Palace,Sheffield United,2,0
+05-Dec-92,Leeds,Nottingham Forest,1,2
+05-Dec-92,Middlesbrough,Blackburn Rovers,3,2
+05-Dec-92,Norwich City,Wimbledon,2,1
+05-Dec-92,QPR,Oldham Athletic,3,2
+05-Dec-92,Sheffield Wednesday,Aston Villa,1,2
+05-Dec-92,Southampton,Arsenal,2,0
+05-Dec-92,Tottenham,Chelsea,1,2
+29-Nov-92,Chelsea,Leeds,1,0
+28-Nov-92,Arsenal,Man United,0,1
+28-Nov-92,Aston Villa,Norwich City,2,3
+28-Nov-92,Blackburn Rovers,QPR,1,0
+28-Nov-92,Ipswich Town,Everton,1,0
+28-Nov-92,Liverpool,Crystal Palace,5,0
+28-Nov-92,Man City,Tottenham,0,1
+28-Nov-92,Nottingham Forest,Southampton,1,2
+28-Nov-92,Oldham Athletic,Middlesbrough,4,1
+28-Nov-92,Sheffield United,Coventry City,1,1
+28-Nov-92,Wimbledon,Sheffield Wednesday,1,1
+23-Nov-92,QPR,Liverpool,0,1
+22-Nov-92,Southampton,Blackburn Rovers,1,1
+21-Nov-92,Coventry City,Man City,2,3
+21-Nov-92,Crystal Palace,Nottingham Forest,1,1
+21-Nov-92,Everton,Chelsea,0,1
+21-Nov-92,Leeds,Arsenal,3,0
+21-Nov-92,Man United,Oldham Athletic,3,0
+21-Nov-92,Middlesbrough,Wimbledon,2,0
+21-Nov-92,Norwich City,Sheffield United,2,1
+21-Nov-92,Sheffield Wednesday,Ipswich Town,1,1
+21-Nov-92,Tottenham,Aston Villa,0,0
+09-Nov-92,Oldham Athletic,Norwich City,2,3
+08-Nov-92,Sheffield United,Sheffield Wednesday,1,1
+07-Nov-92,Arsenal,Coventry City,3,0
+07-Nov-92,Aston Villa,Man United,1,0
+07-Nov-92,Blackburn Rovers,Tottenham,0,2
+07-Nov-92,Chelsea,Crystal Palace,3,1
+07-Nov-92,Ipswich Town,Southampton,0,0
+07-Nov-92,Liverpool,Middlesbrough,4,1
+07-Nov-92,Man City,Leeds,4,0
+07-Nov-92,Nottingham Forest,Everton,0,1
+07-Nov-92,Wimbledon,QPR,0,2
+02-Nov-92,Crystal Palace,Arsenal,1,2
+01-Nov-92,Aston Villa,QPR,2,0
+31-Oct-92,Chelsea,Sheffield United,1,2
+31-Oct-92,Everton,Man City,1,3
+31-Oct-92,Leeds,Coventry City,2,2
+31-Oct-92,Man United,Wimbledon,0,1
+31-Oct-92,Norwich City,Middlesbrough,1,1
+31-Oct-92,Nottingham Forest,Ipswich Town,0,1
+31-Oct-92,Sheffield Wednesday,Blackburn Rovers,0,0
+31-Oct-92,Southampton,Oldham Athletic,1,0
+31-Oct-92,Tottenham,Liverpool,2,0
+25-Oct-92,Liverpool,Norwich City,4,1
+25-Oct-92,Wimbledon,Tottenham,1,1
+24-Oct-92,Arsenal,Everton,2,0
+24-Oct-92,Blackburn Rovers,Man United,0,0
+24-Oct-92,Coventry City,Chelsea,1,2
+24-Oct-92,Ipswich Town,Crystal Palace,2,2
+24-Oct-92,Man City,Southampton,1,0
+24-Oct-92,Middlesbrough,Sheffield Wednesday,1,1
+24-Oct-92,Oldham Athletic,Aston Villa,1,1
+24-Oct-92,QPR,Leeds,2,1
+24-Oct-92,Sheffield United,Nottingham Forest,0,0
+21-Oct-92,Nottingham Forest,Middlesbrough,1,0
+19-Oct-92,Aston Villa,Blackburn Rovers,0,0
+18-Oct-92,Man United,Liverpool,2,2
+17-Oct-92,Chelsea,Ipswich Town,2,1
+17-Oct-92,Crystal Palace,Man City,0,0
+17-Oct-92,Everton,Coventry City,1,1
+17-Oct-92,Leeds,Sheffield United,3,1
+17-Oct-92,Norwich City,QPR,2,1
+17-Oct-92,Nottingham Forest,Arsenal,0,1
+17-Oct-92,Sheffield Wednesday,Oldham Athletic,2,1
+17-Oct-92,Southampton,Wimbledon,2,2
+17-Oct-92,Tottenham,Middlesbrough,2,2
+04-Oct-92,Oldham Athletic,Everton,1,0
+03-Oct-92,Arsenal,Chelsea,2,1
+03-Oct-92,Blackburn Rovers,Norwich City,7,1
+03-Oct-92,Coventry City,Crystal Palace,2,2
+03-Oct-92,Ipswich Town,Leeds,4,2
+03-Oct-92,Liverpool,Sheffield Wednesday,1,0
+03-Oct-92,Man City,Nottingham Forest,2,2
+03-Oct-92,Middlesbrough,Man United,1,1
+03-Oct-92,QPR,Tottenham,4,1
+03-Oct-92,Sheffield United,Southampton,2,0
+03-Oct-92,Wimbledon,Aston Villa,2,3
+28-Sep-92,Arsenal,Man City,1,0
+27-Sep-92,Sheffield Wednesday,Tottenham,2,0
+26-Sep-92,Blackburn Rovers,Oldham Athletic,2,0
+26-Sep-92,Chelsea,Nottingham Forest,0,0
+26-Sep-92,Coventry City,Norwich City,1,1
+26-Sep-92,Crystal Palace,Southampton,1,2
+26-Sep-92,Ipswich Town,Sheffield United,0,0
+26-Sep-92,Leeds,Everton,2,0
+26-Sep-92,Liverpool,Wimbledon,2,3
+26-Sep-92,Man United,QPR,0,0
+26-Sep-92,Middlesbrough,Aston Villa,2,3
+21-Sep-92,Nottingham Forest,Coventry City,1,1
+20-Sep-92,Man City,Chelsea,0,1
+19-Sep-92,Aston Villa,Liverpool,4,2
+19-Sep-92,Everton,Crystal Palace,0,2
+19-Sep-92,Norwich City,Sheffield Wednesday,1,0
+19-Sep-92,Oldham Athletic,Ipswich Town,4,2
+19-Sep-92,QPR,Middlesbrough,3,3
+19-Sep-92,Sheffield United,Arsenal,1,1
+19-Sep-92,Southampton,Leeds,1,1
+19-Sep-92,Tottenham,Man United,1,1
+19-Sep-92,Wimbledon,Blackburn Rovers,1,1
+15-Sep-92,Blackburn Rovers,Everton,2,3
+14-Sep-92,Coventry City,Tottenham,1,0
+13-Sep-92,Leeds,Aston Villa,1,1
+12-Sep-92,Arsenal,Blackburn Rovers,0,1
+12-Sep-92,Chelsea,Norwich City,2,3
+12-Sep-92,Crystal Palace,Oldham Athletic,2,2
+12-Sep-92,Everton,Man United,0,2
+12-Sep-92,Ipswich Town,Wimbledon,2,1
+12-Sep-92,Man City,Middlesbrough,0,1
+12-Sep-92,Nottingham Forest,Sheffield Wednesday,1,2
+12-Sep-92,Sheffield United,Liverpool,1,0
+12-Sep-92,Southampton,QPR,1,2
+06-Sep-92,Man United,Leeds,2,0
+05-Sep-92,Aston Villa,Crystal Palace,3,0
+05-Sep-92,Blackburn Rovers,Nottingham Forest,4,1
+05-Sep-92,Liverpool,Chelsea,2,1
+05-Sep-92,Middlesbrough,Sheffield United,2,0
+05-Sep-92,Norwich City,Southampton,1,0
+05-Sep-92,Oldham Athletic,Coventry City,0,1
+05-Sep-92,QPR,Ipswich Town,0,0
+05-Sep-92,Sheffield Wednesday,Man City,0,3
+05-Sep-92,Tottenham,Everton,2,1
+05-Sep-92,Wimbledon,Arsenal,3,2
+02-Sep-92,Aston Villa,Chelsea,1,3
+02-Sep-92,Man United,Crystal Palace,1,0
+02-Sep-92,QPR,Arsenal,0,0
+02-Sep-92,Sheffield Wednesday,Coventry City,1,2
+02-Sep-92,Tottenham,Sheffield United,2,0
+01-Sep-92,Liverpool,Southampton,1,1
+01-Sep-92,Middlesbrough,Ipswich Town,2,2
+01-Sep-92,Oldham Athletic,Leeds,2,2
+01-Sep-92,Wimbledon,Man City,0,1
+31-Aug-92,Norwich City,Nottingham Forest,3,1
+30-Aug-92,Ipswich Town,Tottenham,1,1
+29-Aug-92,Arsenal,Sheffield Wednesday,2,1
+29-Aug-92,Chelsea,QPR,1,0
+29-Aug-92,Coventry City,Blackburn Rovers,0,2
+29-Aug-92,Crystal Palace,Norwich City,1,2
+29-Aug-92,Everton,Wimbledon,0,0
+29-Aug-92,Leeds,Liverpool,2,2
+29-Aug-92,Man City,Oldham Athletic,3,3
+29-Aug-92,Nottingham Forest,Man United,0,2
+29-Aug-92,Sheffield United,Aston Villa,0,2
+29-Aug-92,Southampton,Middlesbrough,2,1
+26-Aug-92,Arsenal,Oldham Athletic,2,0
+26-Aug-92,Chelsea,Blackburn Rovers,0,0
+26-Aug-92,Coventry City,QPR,0,1
+26-Aug-92,Man City,Norwich City,3,1
+25-Aug-92,Crystal Palace,Sheffield Wednesday,1,1
+25-Aug-92,Everton,Aston Villa,1,0
+25-Aug-92,Ipswich Town,Liverpool,2,2
+25-Aug-92,Leeds,Tottenham,5,0
+25-Aug-92,Sheffield United,Wimbledon,2,2
+24-Aug-92,Southampton,Man United,0,1
+23-Aug-92,Liverpool,Arsenal,0,2
+22-Aug-92,Aston Villa,Southampton,1,1
+22-Aug-92,Blackburn Rovers,Man City,1,0
+22-Aug-92,Man United,Ipswich Town,1,1
+22-Aug-92,Middlesbrough,Leeds,4,1
+22-Aug-92,Norwich City,Everton,1,1
+22-Aug-92,Oldham Athletic,Nottingham Forest,5,3
+22-Aug-92,QPR,Sheffield United,3,2
+22-Aug-92,Sheffield Wednesday,Chelsea,3,3
+22-Aug-92,Tottenham,Crystal Palace,2,2
+22-Aug-92,Wimbledon,Coventry City,1,2
+19-Aug-92,Aston Villa,Leeds,1,1
+19-Aug-92,Liverpool,Sheffield United,2,1
+19-Aug-92,Man United,Everton,0,3
+19-Aug-92,Middlesbrough,Man City,2,0
+19-Aug-92,Norwich City,Chelsea,2,1
+19-Aug-92,Oldham Athletic,Crystal Palace,1,1
+19-Aug-92,QPR,Southampton,3,1
+19-Aug-92,Sheffield Wednesday,Nottingham Forest,2,0
+19-Aug-92,Tottenham,Coventry City,0,2
+18-Aug-92,Blackburn Rovers,Arsenal,1,0
+18-Aug-92,Wimbledon,Ipswich Town,0,1
+17-Aug-92,Man City,QPR,1,1
+16-Aug-92,Nottingham Forest,Liverpool,1,0
+15-Aug-92,Arsenal,Norwich City,2,4
+15-Aug-92,Chelsea,Oldham Athletic,1,1
+15-Aug-92,Coventry City,Middlesbrough,2,1
+15-Aug-92,Crystal Palace,Blackburn Rovers,3,3
+15-Aug-92,Everton,Sheffield Wednesday,1,1
+15-Aug-92,Ipswich Town,Aston Villa,1,1
+15-Aug-92,Leeds,Wimbledon,2,1
+15-Aug-92,Sheffield United,Man United,2,1
+15-Aug-92,Southampton,Tottenham,0,0

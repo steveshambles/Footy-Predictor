@@ -1,0 +1,99 @@
+Match Head To Head Help For Footy Predictor V1.24
+-------------------------------------------------
+When you click on the "Head 2 Head" button from the main program
+a 29 season Premier League history of the fixture 
+you chose in the main program will be shown in a text box.
+
+Obviously not all teams currently in the Premier League have
+always been in the PL, so some years may be missing whilst they
+played in the lower divisions.
+
+Here is an example of a typical head to head match history.
+
+In the main program I picked Chelsea for the home team,
+Tottenham for the away team, and then clicked on the
+"Head 2 Head" button and this information popped up in a box.
+
+EPL Head To Head Stats
+-----------------------
+Chelsea V Tottenham 2-1  22-Feb-20
+Chelsea V Tottenham 2-0  27-Feb-19
+Chelsea V Tottenham 1-3  01-Apr-18
+Chelsea V Tottenham 2-1  26-Nov-16
+Chelsea V Tottenham 2-2  02-May-16
+Chelsea V Tottenham 3-0  03-Dec-14
+Chelsea V Tottenham 4-0  08-Mar-14
+Chelsea V Tottenham 2-2  08-May-13
+Chelsea V Tottenham 0-0  24-Mar-12
+Chelsea V Tottenham 2-1  30-Apr-11
+Chelsea V Tottenham 3-0  20-Sep-09
+Chelsea V Tottenham 1-1  31-Aug-08
+Chelsea V Tottenham 2-0  12-Jan-08
+Chelsea V Tottenham 1-0  07-Apr-07
+Chelsea V Tottenham 2-1  11-Mar-06
+Chelsea V Tottenham 0-0  19-Sep-04
+Chelsea V Tottenham 4-2  13-Sep-03
+Chelsea V Tottenham 1-1  01-Feb-03
+Chelsea V Tottenham 4-0  13-Mar-02
+Chelsea V Tottenham 3-0  28-Oct-00
+Chelsea V Tottenham 1-0  12-Jan-00
+Chelsea V Tottenham 2-0  19-Dec-98
+Chelsea V Tottenham 2-0  11-Apr-98
+Chelsea V Tottenham 3-1  26-Oct-96
+Chelsea V Tottenham 0-0  25-Nov-95
+Chelsea V Tottenham 1-1  11-Feb-95
+Chelsea V Tottenham 4-3  27-Feb-94
+Chelsea V Tottenham 1-1  20-Mar-93
+
+28 Matches found.
+------------------------------
+           W   D   L   G   Pts
+Home team: 18  09  01  55  63
+Away team: 01  09  18  21  12
+
+Stats for this fixture:
+-----------------------
+Chelsea
+Win rate: 64.29%
+Avg goals scored when won : 2.6
+avg goals scored when draw: 0.9
+avg goals scored when lost: 1.0
+Clean sheets: 14 (50.00%)
+
+Tottenham
+Win rate: 3.57%
+avg goals scored when won : 3.0
+avg goals scored when draw: 0.9
+avg goals scored when lost: 0.6
+Clean sheets: 3 (10.71%)
+
+--------------------------------------
+It is now up to you to deduce what you can from this information.
+
+Note: You can copy parts, or all, of this text by highlighting what
+you want with the mouse and then pressing Ctrl+c to copy the text
+to your clipboard. You can now paste that text elsewhere,
+should the need arise.
+
+Clicking the "Copy" button will copy all of the text to your clipboard.
+
+Only one match history window can be opened at a time.
+
+Click on "EXIT" to go back to the main program.
+
+Note: I decided NOT to link the head 2 head data to 
+FP's prediction algo because I am sceptical on how
+much use old matches are in a lot of cases, however, for
+most footy fans this info will be very interesting, it
+fascinates me for sure, and in some cases
+looking at the h2h history can pull out some good priced
+results if considered alongside current form.
+
+But I like to think that current form alone is a
+much better overall predictor of the likely outcome
+of a match.
+
+Good luck.
+
+Steve Shambles
+June 2021

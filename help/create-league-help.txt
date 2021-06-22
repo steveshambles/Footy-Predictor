@@ -1,0 +1,155 @@
+How To Create A League For Footy Predictor V1.24
+------------------------------------------------
+I have tried to make the process as simple as possible so that
+anyone can create, and then load in their favourite league(s),
+here's how. 
+
+Maximum of 28 Teams:
+---------------------
+The number one requirement is that the league has a maximum
+of 28 teams in it, which just about covers every league
+I've ever seen, so hopefully that's not a problem for anyone.
+It's okay to have less teams than 28 teams in your league of course.
+
+Your files must go inside the "leagues" folder:
+----------------------------------------------
+If you look inside the "leagues" folder of Footy Predictor
+you can see an example that I have made for the English 
+Championship league. Your league files must reside here.
+
+Must be Three text files:
+-------------------------
+Three text files are required to make a league, these are very simple,
+but must be created in plain text with no control codes, in other words 
+create\edit these files in notepad.exe or similar, I use Notepad++
+which is a brilliant free editor.
+
+File one:
+----------
+Must be named with the name of the league and use caps for the first letters;
+Example: "English Championship.fpcl"
+
+Note:
+As from V1.01 I have changed the main custom league file extension from .txt to .fpcl
+(footy predictor custom league) to save confusion about which file to load from the league menu. It is still just a text file but with a made up extension name. Now when you click load league only one file will show up for each league avaiable.
+
+Inside, the file must contain the team names of every team in your league.
+You don't have to, but I like to list them alphabetically, to make finding
+a team quick and easy in the drop-down lists in the program.
+Please capitalize the team names.
+Example:
+
+Barnsley
+Birmingham
+Blackburn
+Bournemouth
+Brentford
+Bristol City
+Cardiff
+Coventry
+Derby
+Huddersfield
+Luton
+Middlesbrough
+Millwall
+Norwich
+Nottm Forest
+Preston NE
+QPR
+Reading
+Rotherham
+Sheff Wed
+Stoke
+Swansea
+Watford
+Wycombe
+
+No blank lines please or there will be problems,
+pay special attention to start and end of file,
+no blankies or it will mess things up.
+
+If you have problems or don't understand what I'm on about then
+You could copy and edit my English Championship.txt file and save it under your league name instead.
+
+File Two
+--------
+Must be named the same as file one but with "-ratings" added on to it, and the file extension should be 'txt'.
+
+Example:
+"English Championship-ratings.txt"
+
+Inside this text file is simply a base rating for each team, in the same order as you listed your teams in file one.
+
+How I rate each team 
+---------------------
+I start with what I believe to be the worst team in the league 
+and give them a rating of zero. I then look for the next
+best team and give them a 1, or maybe a 2 if they are significantly better
+than the worst team, or a zero again if they are equally as bad as the worst.
+
+I usually end up with a highest rating of 6 or maybe 7
+(There is a maximum rating of 9)
+
+Throughout the course of the season I manually update the ratings to
+reflect current form.
+
+This is all down to your judgement, so if FP is predicting crazy results
+and the predictions are wrong most of the time then you best take a look
+at your ratings.
+
+Note: I am referring mostly to home, draw, away predictions, rather than
+correct scores, as correct score predictions are impossibly difficult to get right more than 10-15% of the time, that's why the bookies will give you what look like good odds on correct scores, 8\1 being a common price
+for example.
+
+Tip: Try not to be biased toward the teams that you love or hate when 
+     editing ratings. LOL.
+
+Example file2:
+
+3
+3
+4
+7
+5
+6
+3
+2
+0
+3
+4
+5
+4
+7
+2
+3
+3
+6
+2
+1
+5
+5
+6
+1
+
+No blank lines anywhere and plain text only.
+ 
+
+File Three:
+------------
+This is really easy, it is just a copy of the ratings 
+that you have just made for file 2.
+Make a copy of file 2 and rename it.
+
+Example:
+
+"English Championship-ratings-orig.txt"
+
+This is so that the user can restore the original ratings that you 
+set up at the start, should they mess it all up.
+
+That's it.
+
+If all goes well, you should be able to load your league into Footy Predictor via the "Load A League" item in the "Leagues" menu.
+
+Regards
+Steve Shambles June 2021
