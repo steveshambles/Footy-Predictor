@@ -1,5 +1,5 @@
 # Footy-Predictor
-A semi-serious match prediction program with serious head to head stats with GUI. Window only for now.
+A semi-serious match prediction program with serious head to head stats with GUI. Windows only for now.
 
 ![Alt text](https://i.postimg.cc/X7Zv19dx/footy-predictor-v124-screenshot.png"")
 
